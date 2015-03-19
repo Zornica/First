@@ -1,2 +1,2 @@
 # First
-This is my 10948 repository!kkk
+This is my 10948 repository!
