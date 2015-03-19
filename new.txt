@@ -1,3 +1,5 @@
 this is a new file in newBranch
 
 nckdlsk
+
+This is a new file in master too.
